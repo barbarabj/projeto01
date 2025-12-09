@@ -1,4 +1,4 @@
-# projeto01
+# OSINT Footprint Analyzer
 Ferramenta que coleta e organiza informações públicas.
 osint-footprint/
 ├─ src/
